@@ -66,5 +66,5 @@ In military or intelligence fields, LSB techniques may be used to transmit sensi
 Steganographic File Systems:
 Some file systems use steganography to store file metadata or encrypt information without making it obvious that such information exists.
 
-12. Conclusion
+12. Conclusion:
 The LSB Image Steganography technique provides a simple yet effective method for hiding information within digital images. It can be applied for purposes ranging from covert communication to digital rights management. However, its simplicity also introduces vulnerabilities, especially to steganalysis and lossy image formats. To improve the security and robustness of the hidden data, LSB steganography is often combined with encryption techniques. In future developments, hybrid techniques that balance data capacity, security, and image quality could be explored.
