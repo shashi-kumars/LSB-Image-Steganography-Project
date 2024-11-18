@@ -2,9 +2,7 @@
 Steganography is the practice of concealing a file, message, or image within another file, message, or image. Least Significant Bit (LSB) steganography is one of the simplest methods to hide data within an image. By manipulating the LSB of each pixel in an image, secret data can be embedded without causing noticeable distortion to the image.
 
 2. Objective
-The primary objective of this project is to:
-
-Develop a system that allows users to embed secret data (like text or another image) inside an image using the LSB method.
+The primary objective of this project is to:Develop a system that allows users to embed secret data (like text or another image) inside an image using the LSB method.
 Extract the hidden data from the image when required.
 Ensure that the original image quality is maintained as much as possible after embedding the data.
 
